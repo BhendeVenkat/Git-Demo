@@ -1,0 +1,28 @@
+Confirm Git Version
+
+git version
+
+
+Confirm Git User Details
+
+
+git config --global --list
+
+====How to clone git repository means get the code in local system
+
+git clone <URL>
+
+git clone https://github.com/BhendeVenkat/Git-Demo
+
+===Check in which dir we are
+
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Venkat@LAPTOP-NJ68E7HR MINGW64 ~/projects/Git-Demo (main)
+
+
+=============How to add file locally to git hub-======
